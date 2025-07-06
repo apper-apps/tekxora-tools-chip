@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "name": "Free",
+    "credits": 300,
+    "price": 0,
+    "features": [
+      "300 credits per month",
+      "Access to all tools",
+      "Basic AI models",
+      "Community support"
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Standard",
+    "credits": 500,
+    "price": 19,
+    "features": [
+      "500 credits per month",
+      "Access to all tools",
+      "Premium AI models",
+      "Priority support",
+      "Export features"
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "Premium",
+    "credits": 1000,
+    "price": 49,
+    "features": [
+      "1000 credits per month",
+      "Access to all tools",
+      "All AI models",
+      "Priority support",
+      "Advanced features",
+      "API access"
+    ]
+  }
+]

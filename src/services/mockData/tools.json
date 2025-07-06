@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "name": "HTML Game Prompt Generator",
+    "slug": "game-prompt-generator",
+    "description": "Generate comprehensive game development prompts using our OMFF analysis framework. Perfect for creating detailed game specifications with folder structure, materials, and features.",
+    "icon": "Gamepad2",
+    "gradient": "from-primary to-purple-600",
+    "credits": "40-60 credits",
+    "min_cost": 40,
+    "max_cost": 60,
+    "api_provider": "openai",
+    "features": [
+      "OMFF Analysis Framework",
+      "Suggestion System",
+      "Export Options",
+      "Folder Structure Generation"
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "AI Website Prompt Generator",
+    "slug": "website-prompt-generator",
+    "description": "Create detailed website development prompts with technical specifications. Choose your tech stack and get comprehensive requirements with development phases.",
+    "icon": "Globe",
+    "gradient": "from-secondary to-pink-600",
+    "credits": "40-60 credits",
+    "min_cost": 40,
+    "max_cost": 60,
+    "api_provider": "openai",
+    "features": [
+      "Tech Stack Selection",
+      "Feature Planning",
+      "Page Structure",
+      "Development Phases"
+    ]
+  }
+]
